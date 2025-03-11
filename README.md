@@ -139,6 +139,7 @@ Le labyrinthe **résolu** est affiché avec le **chemin final en vert (+)**.
 ## 🖥️ Interface Graphique
 
 L'interface graphique permet de :  
+
 🛠 **Générer** un labyrinthe de taille configurable  
 📂 **Charger** un labyrinthe depuis un fichier  
 🔍 **Résoudre avec DFS** ou **BFS**  
