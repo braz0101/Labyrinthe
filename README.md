@@ -133,6 +133,7 @@ En choisissant **la comparaison**, un **tableau récapitulatif** des performance
 Le labyrinthe **résolu** est affiché avec le **chemin final en vert (+)**.
 
 (Exemple du fichier labyrinthe.txt)
+
 ---
 
 ## 🖥️ Interface Graphique
