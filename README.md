@@ -112,7 +112,7 @@ L'interface graphique permet de :
 🌙 **Passer en mode sombre**  
 🎮 **Activer le mode joueur** et naviguer avec les flèches  
 
-### 👢 Boutons disponibles
+### 🖱️ Boutons disponibles
 
 | Icône | Fonction |
 |-------|----------|
