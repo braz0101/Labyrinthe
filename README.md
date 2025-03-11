@@ -63,8 +63,8 @@ Labyrinthe/
 │   │   ├── Solveur.java  # Algorithmes DFS & BFS
 │   │   └── utils/
 │   │       ├── Chrono.java  # Chronomètre
-│   │       ├── LabyrintheGenerator.java  # Génération aléatoire
-│   │       ├── LabyrintheLoader.java  # Chargement depuis un fichier
+│   │       ├── LabyrintheGenerator.java  # Génération aléatoire de labyrinthe
+│   │       ├── LabyrintheLoader.java  # Chargement depuis un fichier (labyrinthe.txt par exemple)
 │   ├── mazeresolver/gui/
 │   │   ├── LabyrintheGUI.java  # Interface graphique principale
 │   │   ├── LabyrinthePanel.java  # Affichage graphique du labyrinthe
