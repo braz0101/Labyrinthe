@@ -50,7 +50,31 @@ java -cp bin mazeresolver.Main
 javac -d bin -sourcepath src src/mazeresolver/gui/LabyrintheGUI.java
 java -cp bin mazeresolver.gui.LabyrintheGUI
 ```
+---
 
+## 📂 Structure du projet
+
+```
+Labyrinthe/
+├── src/
+│   ├── mazeresolver/
+│   │   ├── Main.java  # Mode console
+│   │   ├── Labyrinthe.java  # Représentation du labyrinthe
+│   │   ├── Solveur.java  # Algorithmes DFS & BFS
+│   │   └── utils/
+│   │       ├── Chrono.java  # Chronomètre
+│   │       ├── LabyrintheGenerator.java  # Génération aléatoire
+│   │       ├── LabyrintheLoader.java  # Chargement depuis un fichier
+│   ├── mazeresolver/gui/
+│   │   ├── LabyrintheGUI.java  # Interface graphique principale
+│   │   ├── LabyrinthePanel.java  # Affichage graphique du labyrinthe
+│   │   ├── LabyrinthePanel2.java  # Affichage en console
+│   └── ressources/
+│       ├── labyrinthe.txt  # Exemple de fichier labyrinthe
+├── bin/  # Compilation
+├── README.md  # Documentation
+└── .gitignore  # Fichiers à ignorer
+```
 ---
 
 ## 🎮 Menu Console
