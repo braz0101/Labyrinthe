@@ -77,6 +77,33 @@ Labyrinthe/
 ```
 ---
 
+## 📜 Rôles des fichiers
+
+| Fichier                     | Rôle |
+|-----------------------------|-------------------------------------------------------------|
+| **Main.java**               | Programme principal en mode console (génération, chargement, résolution). |
+| **Labyrinthe.java**         | Représentation et affichage du labyrinthe en console. |
+| **Solveur.java**            | Implémentation des algorithmes DFS et BFS pour résoudre le labyrinthe. |
+| **LabyrintheGenerator.java** | Génération automatique de labyrinthes aléatoires. |
+| **LabyrintheLoader.java**   | Chargement d’un labyrinthe à partir d’un fichier texte. |
+| **Chrono.java**             | Mesure du temps d’exécution des algorithmes. |
+
+## 🖥️ Interface Graphique
+
+| Fichier                     | Rôle |
+|-----------------------------|-------------------------------------------------------------|
+| **LabyrintheGUI.java**       | Gestion complète de l'interface utilisateur avec Swing. |
+| **LabyrinthePanel.java**     | Affichage et interaction avec le labyrinthe en mode graphique. |
+| **LabyrinthePanel2.java**    | Affichage du labyrinthe en mode console avec Swing. |
+
+## 📂 Ressources
+
+| Fichier            | Rôle |
+|--------------------|-------------------------------------------|
+| **labyrinthe.txt** | Exemple de labyrinthe au format texte, utilisable pour le chargement. |
+
+
+---
 ## 🎮 Menu Console
 
 Lorsque vous exécutez le programme en mode **console**, un menu interactif s'affiche :
