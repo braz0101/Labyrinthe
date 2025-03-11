@@ -131,7 +131,8 @@ En choisissant **la comparaison**, un **tableau récapitulatif** des performance
 <img width="611" alt="3" src="https://github.com/user-attachments/assets/9068c41d-832e-439b-a95e-c495b6ae22f4" />
 
 Le labyrinthe **résolu** est affiché avec le **chemin final en vert (+)**.
-(exemple du fichier labyrinthe.txt)
+
+(Exemple du fichier labyrinthe.txt)
 ---
 
 ## 🖥️ Interface Graphique
