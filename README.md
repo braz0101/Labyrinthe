@@ -151,6 +151,6 @@ Si vous choisissez de **charger un labyrinthe** depuis un fichier, son format do
 
 ## 📝 Licence
 
-📄 **Ce projet est open-source sous licence MIT**.  
+📄 **Ce projet est open-source sous [licence MIT](https://opensource.org/licenses/MIT)**.  
 🚀 **N’hésitez pas à contribuer !**
 
