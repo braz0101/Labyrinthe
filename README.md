@@ -102,6 +102,19 @@ Labyrinthe/
 |--------------------|-------------------------------------------|
 | **labyrinthe.txt** | Exemple de labyrinthe au format texte, utilisable pour le chargement. |
 
+## ⚙️ Paramétrage du Labyrinthe
+
+Le taux de **murs** dans le labyrinthe est défini par un paramètre probabiliste dans `LabyrintheGenerator.java` :
+```java
+// Génération d'un labyrinthe avec environ 25% de murs
+labyrinthe[i][j] = (rand.nextDouble() < 0.25) ? '#' : '=';
+```
+Vous pouvez ajuster cette valeur (`0.25`) pour modifier la densité des murs :
+- **0.20** → Labyrinthe plus ouvert avec plus de chemins.
+- **0.25** → Équilibre entre passages et obstacles (valeur par défaut).
+- **0.30** → Labyrinthe plus complexe avec plus de murs.
+
+Augmenter cette valeur rend la **résolution plus difficile**, tandis que la diminuer facilite le passage.
 
 ---
 ## 🎮 Menu Console
