@@ -92,6 +92,9 @@ Choisissez une option (1 ou 2) :
 - **Génération d'un labyrinthe** : entrez une taille entre **5 et 50**  
 - **Chargement depuis un fichier** : lit un fichier texte contenant la structure d'un labyrinthe  
 
+<img width="475" alt="1" src="https://github.com/user-attachments/assets/a119f9ca-57a5-4866-9ce2-b97e272f5297" />
+
+
 ### 🔎 Résolution du labyrinthe
 
 Après avoir généré ou chargé un labyrinthe, le programme propose **trois options** :
@@ -107,23 +110,28 @@ Choisissez une option (1, 2 ou 3) :
 - **BFS (Breadth-First Search)** 🔵  
 - **Comparaison des deux algorithmes** ⚖  
 
+<img width="364" alt="2" src="https://github.com/user-attachments/assets/e1657fe5-894d-4feb-9874-4511a3c19b90" />
+
+
 ### 📊 Comparaison DFS vs BFS
 
-En choisissant **la comparaison**, un **tableau récapitulatif** des performances s'affiche dans la console :
+En choisissant **la comparaison**, un **tableau récapitulatif** des performances s'affiche dans la console comme ceci:
 
 ```
-==========================
+===========================================
  Comparaison DFS vs BFS
-==========================
+===========================================
 | Algorithme | Temps (ms) | Cases visitées |
 |------------|------------|----------------|
-| DFS        |     12     |      150       |
-| BFS        |      9     |      120       |
-==========================
+| DFS        |      0     |        7       |
+| BFS        |      0     |        3       |
+===========================================
 ```
 
-Le labyrinthe **résolu** est affiché avec le **chemin final en vert (+)**.
+<img width="611" alt="3" src="https://github.com/user-attachments/assets/9068c41d-832e-439b-a95e-c495b6ae22f4" />
 
+Le labyrinthe **résolu** est affiché avec le **chemin final en vert (+)**.
+(exemple du fichier labyrinthe.txt)
 ---
 
 ## 🖥️ Interface Graphique
