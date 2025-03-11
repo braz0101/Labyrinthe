@@ -33,8 +33,8 @@ L'application est disponible en **mode console** et en **interface graphique (Sw
 ### 1⃣ Cloner le projet
 
 ```sh
-git clone https://github.com/ton-repo/labyrinthe-solver.git
-cd labyrinthe-solver
+git clone https://github.com/braz0101/Labyrinthe.git
+cd Labyrinthe
 ```
 
 ### 2⃣ Compilation et exécution
