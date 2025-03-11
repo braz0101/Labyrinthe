@@ -57,3 +57,54 @@ Choisissez une option (1, 2 ou 3) :
 - BFS (Breadth-First Search) 🔵
 - Comparaison des deux algorithmes ⚖
 
+📊 En choisissant la comparaison, un tableau récapitulatif des performances s'affiche dans la console :
+
+==========================
+ Comparaison DFS vs BFS
+==========================
+| Algorithme | Temps (ms) | Cases visitées |
+|------------|------------|----------------|
+| DFS        |     12     |      150       |
+| BFS        |      9     |      120       |
+==========================
+
+Le labyrinthe résolu est affiché avec le chemin final en vert (+).
+
+🖥️ Interface Graphique
+
+L'interface graphique permet de :
+🛠 Générer un labyrinthe de taille configurable
+📂 Charger un labyrinthe depuis un fichier
+🔍 Résoudre avec DFS ou BFS
+⚖ Comparer les performances des deux algorithmes
+🌙 Passer en mode sombre
+🎮 Activer le mode joueur et naviguer avec les flèches
+
+🖱️ Boutons disponibles
+
+Icône	Fonction
+🛠	Générer un nouveau labyrinthe
+📂	Charger un labyrinthe depuis un fichier
+🔍	Résoudre avec DFS
+🔎	Résoudre avec BFS
+⚖	Comparer DFS et BFS
+❌	Effacer le chemin trouvé
+🔄	Réinitialiser le labyrinthe
+🌙	Activer/désactiver le mode sombre
+🎮	Activer/désactiver le mode joueur
+
+📝 Exemple de fichier labyrinthe.txt
+Si vous choisissez de charger un labyrinthe depuis un fichier, son format doit être :
+#######
+#S===E#
+#=###=#
+#=====#
+#######
+
+'#' représente un mur
+S est le point de départ
+E est la sortie
+= est un passage
+
+📜 Licence
+🚀 Ce projet est open-source sous licence MIT. N’hésitez pas à contribuer !
