@@ -201,9 +201,15 @@ L'interface graphique permet de :
 | 🌙 | Activer/désactiver le **mode sombre** |
 | 🎮 | Activer/désactiver le **mode joueur** |
 
+<img width="446" alt="4" src="https://github.com/user-attachments/assets/dced65a4-5d1a-4c83-9219-eb0094e59210" />
+
+<img width="449" alt="5" src="https://github.com/user-attachments/assets/b7be6344-b1ab-41d3-a764-f0ba539af8d5" />
+
+<img width="443" alt="6" src="https://github.com/user-attachments/assets/e63bca11-a0dc-4a08-93b9-73dec43eac9f" />
+
 ---
 
-## 📝 Exemple de fichier **labyrinthe.txt**
+## 📝 Exemple de syntaxe de fichier **labyrinthe.txt**
 
 Si vous choisissez de **charger un labyrinthe** depuis un fichier, son format doit être :  
 
