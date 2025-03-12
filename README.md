@@ -201,6 +201,8 @@ L'interface graphique permet de :
 | 🌙 | Activer/désactiver le **mode sombre** |
 | 🎮 | Activer/désactiver le **mode joueur** |
 
+<img width="447" alt="7" src="https://github.com/user-attachments/assets/c7e1989a-bc8a-4a84-a5cf-bbbaae1c9889" />
+
 <img width="446" alt="4" src="https://github.com/user-attachments/assets/dced65a4-5d1a-4c83-9219-eb0094e59210" />
 
 <img width="449" alt="5" src="https://github.com/user-attachments/assets/b7be6344-b1ab-41d3-a764-f0ba539af8d5" />
